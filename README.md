@@ -17,7 +17,7 @@ I possess a solid foundation in AWS  and practical experience in optimizing clou
 
 I enjoy working in dynamic environments and possess essential soft skills like 
 
-Problem solving, leadership, and adaptability. I am driven to merge efficient cloud architecture with cutting-edge frontend development to create solutions that are both cost-effective and highly engaging.
+Problem solving, leadership, and adaptability. I am driven to merge efficient cloud architecture with cutting edge frontend development to create solutions that are both cost effective and highly engaging.
 
 
 
