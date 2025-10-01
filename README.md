@@ -1,5 +1,47 @@
-# 💫 Hey Im Jasim:
-An Enthusiastic Software Engineer and recent B. Tech Information and Technology graduate with a strong focus on Frontend Development and Cloud (AWS). I am actively seeking a role where I can immediately contribute and drive meaningful impact in the market by leveraging my technical skills and eagerness to explore new technologies.<br> My expertise is centered on building intelligent, user driven, and scalable solutions:<br> Frontend Development & Future Focus I have a well-versed knowledge in core web technologies including <br>HTML, CSS, and JavaScript. I design responsive interfaces with custom UI/UX<br>I am currently focused on advancing my skills into React to build modern, component based applications that enhance user engagement and provide seamless interactions.<br>I possess a solid foundation in AWS and practical experience in optimizing cloud environments.<br>I led a Cloud Cost Optimization project, developing an AWS Lambda function with Python and Boto3 to automate the deletion of stale EBS snapshots, resulting in a cost reduction of up to 70 percent.<br>I enjoy working in dynamic environments and possess essential soft skills like <br>problem-solving, leadership, and adaptability. I am driven to merge efficient cloud architecture with cutting-edge frontend development to create solutions that are both cost-effective and highly engaging.
+# 💫 Hey Im Jasim
+That's a powerful summary! It clearly highlights your skills, goals, and technical projects.
+
+Here is a revised version of your summary, perfect for your GitHub profile's "About" section, with a few well-placed emojis to add personality and visual appeal.
+
+🚀 About Me
+I am an 
+
+Enthusiastic Software Engineer and recent B. Tech Information and Technology graduate with a strong focus on 
+
+Frontend Development and Cloud (AWS). I am actively seeking a role where I can immediately contribute and drive meaningful impact in the market by leveraging my technical skills and eagerness to explore new technologies.
+
+
+
+
+
+My expertise is centered on building intelligent, user-driven, and scalable solutions:
+
+💻 Frontend Development & Future Focus
+I have well-versed knowledge in core web technologies, including 
+
+HTML, CSS, and JavaScript.
+
+
+
+I design responsive interfaces with custom UI/UX  and am currently focused on advancing my skills into 
+
+React to build modern, component-based applications that enhance user engagement and provide seamless interactions.
+
+☁️ Cloud Infrastructure & Optimization
+I possess a solid foundation in 
+
+AWS  and practical experience in optimizing cloud environments.
+
+
+I led a 
+
+Cloud Cost Optimization project, developing an AWS Lambda function with Python and Boto3 to automate the deletion of stale EBS snapshots, resulting in a cost reduction of up to 70 percent.
+
+I enjoy working in dynamic environments and possess essential soft skills like 
+
+problem-solving, leadership, and adaptability. I am driven to merge efficient cloud architecture with cutting-edge frontend development to create solutions that are both cost-effective and highly engaging.
+
+
 
 
 ## 🌐 Socials:
