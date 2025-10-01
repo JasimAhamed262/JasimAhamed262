@@ -1,34 +1,17 @@
-# 💫 Hey Im Jasim
-Enthusiastic Software Engineer and recent B. Tech Information and Technology graduate with a strong focus on 
-
-Frontend Development and Cloud (AWS). I am actively seeking a role where I can immediately contribute and drive meaningful impact in the market by leveraging my technical skills and eagerness to explore new technologies.
-
-
-
-
+# 👋 Hey Im Jasim
+Enthusiastic Software Engineer and recent B. Tech Information and Technology graduate with a strong focus on Frontend Development and Cloud (AWS). I am actively seeking a role where I can immediately contribute and drive meaningful impact in the market by leveraging my technical skills and eagerness to explore new technologies.
 
 My expertise is centered on building intelligent, user-driven, and scalable solutions:
 
 💻 Frontend Development & Future Focus
 I have well-versed knowledge in core web technologies, including 
-
 HTML, CSS, and JavaScript.
 
-
-
-I design responsive interfaces with custom UI/UX  and am currently focused on advancing my skills into 
-
-React to build modern, component-based applications that enhance user engagement and provide seamless interactions.
+I design responsive interfaces with custom UI/UX  and am currently focused on advancing my skills into React to build modern, component-based applications that enhance user engagement and provide seamless interactions.
 
 ☁️ Cloud Infrastructure & Optimization
-I possess a solid foundation in 
+I possess a solid foundation in AWS  and practical experience in optimizing cloud environments.
 
-AWS  and practical experience in optimizing cloud environments.
-
-
-I led a 
-
-Cloud Cost Optimization project, developing an AWS Lambda function with Python and Boto3 to automate the deletion of stale EBS snapshots, resulting in a cost reduction of up to 70 percent.
 
 I enjoy working in dynamic environments and possess essential soft skills like 
 
