@@ -4,12 +4,14 @@ Enthusiastic Software Engineer and recent B. Tech Information and Technology gra
 My expertise is centered on building intelligent, user driven, and scalable solutions:
 
 💻 Frontend Development & Future Focus
+
 I have well versed knowledge in core web technologies, including 
-HTML, CSS, JavaScript,Typescript and React
+HTML, CSS, JavaScript, Typescript and React
 
 I design responsive interfaces with custom UI/UX  and am currently focused on advancing my skills into NextJs and more to build modern, component based applications that enhance user engagement and provide seamless interactions.
 
 ☁️ Cloud Infrastructure & Optimization
+
 I possess a solid foundation in AWS  and practical experience in optimizing cloud environments.
 
 
