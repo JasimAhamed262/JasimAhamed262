@@ -1,11 +1,4 @@
 # 💫 Hey Im Jasim
-That's a powerful summary! It clearly highlights your skills, goals, and technical projects.
-
-Here is a revised version of your summary, perfect for your GitHub profile's "About" section, with a few well-placed emojis to add personality and visual appeal.
-
-🚀 About Me
-I am an 
-
 Enthusiastic Software Engineer and recent B. Tech Information and Technology graduate with a strong focus on 
 
 Frontend Development and Cloud (AWS). I am actively seeking a role where I can immediately contribute and drive meaningful impact in the market by leveraging my technical skills and eagerness to explore new technologies.
